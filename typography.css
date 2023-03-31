@@ -1,16 +1,67 @@
 /*///////////// TYPOGRAPHY START /////////////*/
 
-.BiotifMedium {
-	font-family: BiotifMedium;
+* {
+  font-family: 'Biotif', sans-serif;
 }
 
-.BiotifBold {
-	font-family: BiotifBold;
+.align-center {
+  text-align: center;
 }
 
-.BiotifExtraBold {
-	font-family: BiotifExtraBold;
+.align-left {
+  text-align: left;
 }
+
+.align-right {
+  text-align: left;
+}
+
+/* XS breakpoint */
+h1, .heading-1 {
+  font-size: 42px;
+  line-height: 45px;
+  letter-spacing: 0.25px;
+}
+
+/* S breakpoint */
+@media (min-width:375px) {
+  h1, .heading-1 {
+    font-size: 49px;
+    line-height: 52px;
+  }
+}
+
+/* M breakpoint */
+@media (min-width:580px) {
+  h1, .heading-1 {
+  }
+}
+
+/* L breakpoint */
+@media (min-width:750px) {
+  h1, .heading-1 {
+    font-size: 70.5px;
+    line-height: 76.8px;
+  }
+}
+
+/* XL breakpoint */
+@media (min-width:992px) {
+  h1, .heading-1 {
+    font-size: 80px;
+    line-height: 87.2px;
+  }
+}
+
+/* XXL breakpoint */
+@media (min-width:1200px) {
+  h1, .heading-1 {
+    font-size: 104px;
+    line-height: 113px;
+  }
+}
+
+/*///////////// TYPOGRAPHY END /////////////*/
 
 h1, h2, h3, h4, h5, button, a.button, a small, small {
   text-rendering: optimizeLegibility;
@@ -240,4 +291,4 @@ p a:hover {
 
 }
 
-/*///////////// TYPOGRAPHY END /////////////*/
+
