@@ -45,6 +45,9 @@
         <!-- PAGE-SPECIFIC META end -->
     </head>
     <body class="light-theme">
-        <h1>Poly Nucleus</h1>
+        <header style="padding: 10px;">
+            <img src="imgs/polynucleus.svg" height="50px" width="auto">
+        </header>
+        <h1 class="title-1 align-center" style="max-width:900px;margin:0 auto;">The open-source design system</h1>
     </body>
 </html>
