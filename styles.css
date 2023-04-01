@@ -94,3 +94,10 @@ h1 {
 
 /*///////////// BUTTONS END /////////////*/
 
+/*///////////// COLORS START /////////////*/
+
+body.light-mode {
+  background: #F9F9F9;
+}
+
+/*///////////// COLORS END /////////////*/
