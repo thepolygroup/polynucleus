@@ -8,7 +8,6 @@
 
         <?php echo head() ?>
         
-
         <!-- PAGE-SPECIFIC META start -->
         <meta property="og:title" content="Poly Nucleus"/>
         <meta property="og:url" content="https://polynucleus.com"/>
@@ -25,6 +24,7 @@
         <meta name="twitter:image" content="" />
         <meta name="robots" content="index, follow">
         <!-- PAGE-SPECIFIC META end -->
+        
     </head>
     <body class="light-theme">
         <header style="padding: 10px;">
