@@ -94,6 +94,14 @@ h1 {
 
 /*///////////// BUTTONS END /////////////*/
 
+/*///////////// TABLES START /////////////*/
+
+th, td {
+  border: 1px;
+}
+
+/*///////////// TABLES END /////////////*/
+
 /*///////////// COLORS START /////////////*/
 
 body.light-mode {
