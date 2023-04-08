@@ -113,4 +113,8 @@ body.dark-mode {
   background: #222222;
 }
 
+body.dark-mode * {
+  color: #F9F9F9;
+}
+
 /*///////////// COLORS END /////////////*/
