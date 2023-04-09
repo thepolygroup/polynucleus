@@ -37,6 +37,11 @@ a {
   text-align: left;
 }
 
+.uppercase {
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
 /* XS breakpoint */
 .title-1 {
   font-size: 42px;
