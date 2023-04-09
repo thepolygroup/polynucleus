@@ -159,6 +159,17 @@ header {
 
 /*///////////// HEADER END /////////////*/
 
+/*///////////// FOOTER START /////////////*/
+
+footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+}
+
+/*///////////// FOOTER END /////////////*/
+
 /*///////////// TABLES START /////////////*/
 
 th, td {
