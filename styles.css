@@ -55,6 +55,12 @@ a {
   font-weight: 800;
 }
 
+.heading-1, h1.heading-1, h2.heading-1, h3.heading-1, h4.heading-1, h5.heading-1, h6.heading-1 {
+  font-size: 32px;
+  line-height: 37.4px;
+  font-weight: 600;
+}
+
 /* S breakpoint */
 @media (min-width:375px) {
   .title-1, h1.title-1, h2.title-1, h3.title-1, h4.title-1, h5.title-1, h6.title-1 {
@@ -73,6 +79,11 @@ a {
     font-size: 70.5px;
     line-height: 76.8px;
   }
+
+  .heading-1, h1.heading-1, h2.heading-1, h3.heading-1, h4.heading-1, h5.heading-1, h6.heading-1 {
+    font-size: 45px;
+    line-height: 50px;
+  }
 }
 
 /* XL breakpoint */
@@ -80,6 +91,11 @@ a {
   .title-1, h1.title-1, h2.title-1, h3.title-1, h4.title-1, h5.title-1, h6.title-1 {
     font-size: 80px;
     line-height: 87.2px;
+  }
+
+  .heading-1, h1.heading-1, h2.heading-1, h3.heading-1, h4.heading-1, h5.heading-1, h6.heading-1 {
+    font-size: 52px;
+    line-height: 57.7px;
   }
 }
 
