@@ -74,6 +74,7 @@ hr {
   text-transform: uppercase;
   letter-spacing: 1.5px;
   font-size: 13.33px;
+  margin-bottom: 0.5rem;
 }
 
 h1, h2, h3, h4, h5, button, a.button, a small, small, p, p a, li, p strong, p span, li strong {
