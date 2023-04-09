@@ -74,6 +74,27 @@ hr {
   font-size: 13.33px;
 }
 
+h1, h2, h3, h4, h5, button, a.button, a small, small, p, p a, li, p strong, p span, li strong {
+  text-rendering: optimizeLegibility;
+  font-kerning: normal !important;
+}
+
+h1, h2, h3, h4, h5, button, a.button, a small, small {
+  font-variant-ligatures: discretionary-ligatures;
+  -moz-font-feature-settings: "kern","liga","calt";
+  -ms-font-feature-settings: "kern","liga","calt";
+  -webkit-font-feature-settings: "kern","liga","calt";
+  font-feature-settings: "kern","liga","calt";
+  letter-spacing: 0.25px !important;
+}
+
+p, p a, li, p strong, p span, li strong {
+  -moz-font-feature-settings: "kern","liga","clig","calt";
+  -ms-font-feature-settings: "kern","liga","clig","calt";
+  -webkit-font-feature-settings: "kern","liga","clig","calt";
+  font-feature-settings: "kern","liga","clig","calt";
+}
+
 /* XS breakpoint */
 .title-1, h1.title-1, h2.title-1, h3.title-1, h4.title-1, h5.title-1, h6.title-1 {
   font-size: 42px;
