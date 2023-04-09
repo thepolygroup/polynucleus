@@ -5,6 +5,10 @@
   padding: 0;
 }
 
+a {
+  text-decoration: none;
+}
+
 /*///////////// RESET END /////////////*/
 /*///////////// LAYOUT START /////////////*/
 
@@ -103,6 +107,16 @@ button {
 }
 
 /*///////////// BUTTONS END /////////////*/
+
+/*///////////// HEADER START /////////////*/
+
+header {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 20px;
+}
+
+/*///////////// HEADER END /////////////*/
 
 /*///////////// TABLES START /////////////*/
 

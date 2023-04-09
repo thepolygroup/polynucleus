@@ -27,8 +27,13 @@
 
     </head>
     <body class="light-theme">
-        <header style="padding: 10px;">
+        <header>
             <img src="imgs/polynucleus.svg" height="50px" width="auto">
+            <a href="https://github.com/thepolygroup/polynucleus" target="_blank" style="text-align:right
+            ;">
+                <img src="imgs/github.svg" height="20px" width="auto" alt="Github">
+                github
+            </a>
         </header>
         <h1 class="title-1 align-center" style="max-width:1200px;margin:0 auto;letter-spacing: -0.5px;">The open-source design system</h1>
     </body>
