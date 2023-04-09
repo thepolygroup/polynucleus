@@ -21,6 +21,10 @@ a {
   display: inline;
 }
 
+img {
+  max-width: 100%;
+}
+
 /*///////////// RESET END /////////////*/
 /*///////////// LAYOUT START /////////////*/
 
