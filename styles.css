@@ -61,6 +61,12 @@ a {
   font-weight: 600;
 }
 
+.heading-2, h1.heading-2, h2.heading-2, h3.heading-2, h4.heading-2, h5.heading-2, h6.heading-2 {
+  font-size: 26px;
+  line-height: 32.5px;
+  font-weight: 400;
+}
+
 /* S breakpoint */
 @media (min-width:375px) {
   .title-1, h1.title-1, h2.title-1, h3.title-1, h4.title-1, h5.title-1, h6.title-1 {
@@ -84,6 +90,11 @@ a {
     font-size: 45px;
     line-height: 50px;
   }
+
+  .heading-2, h1.heading-2, h2.heading-2, h3.heading-2, h4.heading-2, h5.heading-2, h6.heading-2 {
+    font-size: 35px;
+    line-height: 39.9px;
+  }
 }
 
 /* XL breakpoint */
@@ -96,6 +107,11 @@ a {
   .heading-1, h1.heading-1, h2.heading-1, h3.heading-1, h4.heading-1, h5.heading-1, h6.heading-1 {
     font-size: 52px;
     line-height: 57.7px;
+  }
+
+  .heading-2, h1.heading-2, h2.heading-2, h3.heading-2, h4.heading-2, h5.heading-2, h6.heading-2 {
+    font-size: 40px;
+    line-height: 45.6px;
   }
 }
 
