@@ -140,4 +140,20 @@ body.dark-mode * {
   color: #F9F9F9;
 }
 
+body.light-mode a, body.light-mode a:visited {
+  color: #00000088;
+}
+
+body.dark-mode a, body.dark-mode a:visited {
+  color: #FFFFFF88;
+}
+
+body.light-mode a:hover {
+  color: #000000;
+}
+
+body.dark-mode a:hover {
+  color: #FFFFFF;
+}
+
 /*///////////// COLORS END /////////////*/

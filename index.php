@@ -26,7 +26,7 @@
         <!-- PAGE-SPECIFIC META end -->
 
     </head>
-    <body class="light-theme">
+    <body class="light-mode">
         <header>
             <img src="imgs/polynucleus.svg" height="50px" width="auto">
             <a href="https://github.com/thepolygroup/polynucleus" target="_blank" style="text-align:right
