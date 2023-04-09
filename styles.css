@@ -103,6 +103,7 @@ p, p a, li, p strong, p span, li strong {
   font-size: 42px;
   line-height: 45px;
   font-weight: 800;
+  margin-bottom: 2rem;
 }
 
 .heading-1, h1.heading-1, h2.heading-1, h3.heading-1, h4.heading-1, h5.heading-1, h6.heading-1 {
