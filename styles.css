@@ -39,7 +39,7 @@ a {
 
 .uppercase {
   text-transform: uppercase;
-  letter-spacing: 0.5px;
+  letter-spacing: 1px;
 }
 
 /* XS breakpoint */
