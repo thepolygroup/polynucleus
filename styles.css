@@ -42,6 +42,12 @@ a {
   letter-spacing: 1px;
 }
 
+.caption {
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  font-size: 13.33px;
+}
+
 /* XS breakpoint */
 .title-1 {
   font-size: 42px;
