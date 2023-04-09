@@ -75,7 +75,7 @@ hr {
 }
 
 h1, h2, h3, h4, h5, button, a.button, a small, small, p, p a, li, p strong, p span, li strong {
-  text-rendering: optimizeLegibility;
+  text-rendering: geometricPrecision;
   font-kerning: normal !important;
 }
 
