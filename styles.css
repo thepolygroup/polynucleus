@@ -9,6 +9,18 @@ a {
   text-decoration: none;
 }
 
+.d-none {
+  display: inline;
+}
+
+.d-block {
+  display: block;
+}
+
+.d-inline {
+  display: inline;
+}
+
 /*///////////// RESET END /////////////*/
 /*///////////// LAYOUT START /////////////*/
 
