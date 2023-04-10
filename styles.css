@@ -90,7 +90,6 @@ h1, h2, h3, h4, h5, button, a.button, a small, small {
   -ms-font-feature-settings: "kern","liga","calt";
   -webkit-font-feature-settings: "kern","liga","calt";
   font-feature-settings: "kern","liga","calt";
-  letter-spacing: 0.25px !important;
 }
 
 p, p a, li, p strong, p span, li strong {
