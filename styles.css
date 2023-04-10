@@ -29,17 +29,17 @@ img {
 /*///////////// LAYOUT START /////////////*/
 
 .container {
-  width: 100%;
+  width: calc(100% - 30px);
   max-width: 790px;
   margin: 0 auto;
-  padding: auto 10px;
+  padding: auto 15px;
 }
 
 .container-1080 {
-  width: 100%;
+  width: calc(100% - 30px);
   max-width: 1080px;
   margin: 0 auto;
-  padding: auto 10px;
+  padding: 0 15px;
 }
 
 hr {
