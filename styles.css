@@ -32,12 +32,14 @@ img {
   width: 100%;
   max-width: 790px;
   margin: 0 auto;
+  padding: auto 10px;
 }
 
 .container-1080 {
   width: 100%;
   max-width: 1080px;
   margin: 0 auto;
+  padding: auto 10px;
 }
 
 hr {
