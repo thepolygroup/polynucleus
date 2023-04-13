@@ -10,7 +10,7 @@ a {
 }
 
 .d-none {
-  display: inline;
+  display: none;
 }
 
 .d-block {
