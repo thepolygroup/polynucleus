@@ -98,10 +98,15 @@ p, p a, li, p strong, p span, li strong {
   font-feature-settings: "kern","liga","clig","calt";
 }
 
-a small, p a {
+a small {
   border-bottom: 3px dotted #7537f8;
   padding-bottom: 5px;
   opacity: 0.5;
+}
+
+p a {
+  border-bottom: 3px dotted #7537f8;
+  padding-bottom: 5px;
 }
 
 a:hover small, p a:hover {
