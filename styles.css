@@ -98,6 +98,17 @@ p, p a, li, p strong, p span, li strong {
   font-feature-settings: "kern","liga","clig","calt";
 }
 
+a small {
+  border-bottom: 3px dotted #7537f8;
+  padding-bottom: 5px;
+  opacity: 0.5;
+}
+
+a:hover small {
+  border-bottom: 3px solid #7537f8;
+  opacity: 1;
+}
+
 /* XS breakpoint */
 .title-1, h1.title-1, h2.title-1, h3.title-1, h4.title-1, h5.title-1, h6.title-1 {
   font-size: 42px;
