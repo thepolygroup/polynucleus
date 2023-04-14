@@ -85,7 +85,6 @@ h1, h2, h3, h4, h5, button, a.button, a small, small, p, p a, li, p strong, p sp
 }
 
 h1, h2, h3, h4, h5, button, a.button, a small, small {
-  font-variant-ligatures: discretionary-ligatures;
   -moz-font-feature-settings: "kern","liga","calt";
   -ms-font-feature-settings: "kern","liga","calt";
   -webkit-font-feature-settings: "kern","liga","calt";
