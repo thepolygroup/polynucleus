@@ -91,7 +91,7 @@ h1, h2, h3, h4, h5, button, a.button, a small, small {
   font-feature-settings: "kern","liga","calt";
 }
 
-p, p a, li, p strong, p span, li strong {
+p, p a, li, p strong, p span, li strong, th, td {
   -moz-font-feature-settings: "kern","liga","clig","calt";
   -ms-font-feature-settings: "kern","liga","clig","calt";
   -webkit-font-feature-settings: "kern","liga","clig","calt";
@@ -146,7 +146,7 @@ ul.hanging-list, ol.hanging-list {
   margin-bottom: 1rem;
 }
 
-p, p a, li, p strong, p span, li strong {
+p, p a, li, p strong, p span, li strong, th, td {
   font-size: 22px;
   letter-spacing: 0.1px;
   line-height: 1.3;
@@ -191,7 +191,7 @@ p {
     line-height: 34px;
   }
 
-  p, p a, li, p strong, p span, li strong {
+  p, p a, li, p strong, p span, li strong, th, td {
     font-size: 22px;
     letter-spacing: .15px;
     line-height: 1.39;
@@ -228,7 +228,7 @@ p {
     line-height: 143px;
   }
 
-  p,p a,li,p strong,p span,li strong {
+  p,p a,li,p strong,p span,li strong, th, td {
     font-size: 25px;
     letter-spacing: 0.15px;
     line-height: 1.39;
