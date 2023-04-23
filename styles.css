@@ -139,6 +139,13 @@ ul.hanging-list, ol.hanging-list {
   margin-bottom: 1rem;
 }
 
+.heading-3, h1.heading-3, h2.heading-3, h3.heading-3, h4.heading-3, h5.heading-3, h6.heading-3 {
+  font-size: 23px;
+  line-height: 29px;
+  font-weight: 400;
+  margin-bottom: 1rem;
+}
+
 p, p a, li, p strong, p span, li strong {
   font-size: 22px;
   letter-spacing: 0.1px;
@@ -179,6 +186,11 @@ p {
     line-height: 39.9px;
   }
 
+  .heading-3, h1.heading-3, h2.heading-3, h3.heading-3, h4.heading-3, h5.heading-3, h6.heading-3 {
+    font-size: 30px;
+    line-height: 35px;
+  }
+
   p, p a, li, p strong, p span, li strong {
     font-size: 22px;
     letter-spacing: .15px;
@@ -201,6 +213,11 @@ p {
   .heading-2, h1.heading-2, h2.heading-2, h3.heading-2, h4.heading-2, h5.heading-2, h6.heading-2 {
     font-size: 40px;
     line-height: 45.6px;
+  }
+
+  .heading-3, h1.heading-3, h2.heading-3, h3.heading-3, h4.heading-3, h5.heading-3, h6.heading-3 {
+    font-size: 36px;
+    line-height: 40px;
   }
 }
 
