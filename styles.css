@@ -269,6 +269,10 @@ footer {
 
 /*///////////// TABLES START /////////////*/
 
+table {
+  border-collapse: collapse;
+}
+
 th, td {
   border: 1px;
 }
