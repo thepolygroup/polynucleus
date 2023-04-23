@@ -188,7 +188,7 @@ p {
 
   .heading-3, h1.heading-3, h2.heading-3, h3.heading-3, h4.heading-3, h5.heading-3, h6.heading-3 {
     font-size: 30px;
-    line-height: 35px;
+    line-height: 34px;
   }
 
   p, p a, li, p strong, p span, li strong {
@@ -216,8 +216,8 @@ p {
   }
 
   .heading-3, h1.heading-3, h2.heading-3, h3.heading-3, h4.heading-3, h5.heading-3, h6.heading-3 {
-    font-size: 36px;
-    line-height: 40px;
+    font-size: 34px;
+    line-height: 38px;
   }
 }
 
