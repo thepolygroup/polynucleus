@@ -114,6 +114,10 @@ a:hover small, p a:hover {
   opacity: 1;
 }
 
+ul.hanging-list, ol.hanging-list {
+  padding-left: 25px;
+}
+
 /* XS breakpoint */
 .title-1, h1.title-1, h2.title-1, h3.title-1, h4.title-1, h5.title-1, h6.title-1 {
   font-size: 42px;
