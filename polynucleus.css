@@ -45,6 +45,7 @@ img {
 hr {
   margin: 80px auto;
   max-width: 700px;
+  opacity: 0.3;
 }
 
 /*///////////// LAYOUT END /////////////*/
@@ -303,6 +304,14 @@ body.light-mode a:hover {
 
 body.dark-mode a:hover {
   color: #FFFFFF;
+}
+
+body.light-mode hr {
+  border-color: #000000;
+}
+
+body.dark-mode hr {
+  border-color: #FFFFFF;
 }
 
 /*///////////// COLORS END /////////////*/
