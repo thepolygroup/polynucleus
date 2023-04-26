@@ -124,6 +124,7 @@ ul.hanging-list, ol.hanging-list {
   line-height: 45px;
   font-weight: 800;
   margin-top: 1rem;
+  padding-top: 2rem;
 }
 
 .heading-1, h1.heading-1, h2.heading-1, h3.heading-1, h4.heading-1, h5.heading-1, h6.heading-1 {
@@ -132,6 +133,7 @@ ul.hanging-list, ol.hanging-list {
   font-weight: 600;
   margin-bottom: 2.5rem;
   margin-top: 1rem;
+  padding-top: 2rem;
 }
 
 .heading-2, h1.heading-2, h2.heading-2, h3.heading-2, h4.heading-2, h5.heading-2, h6.heading-2 {
@@ -140,6 +142,7 @@ ul.hanging-list, ol.hanging-list {
   font-weight: 400;
   margin-bottom: 2.25rem;
   margin-top: 1rem;
+  padding-top: 2rem;
 }
 
 .heading-3, h1.heading-3, h2.heading-3, h3.heading-3, h4.heading-3, h5.heading-3, h6.heading-3 {
@@ -148,6 +151,7 @@ ul.hanging-list, ol.hanging-list {
   font-weight: 400;
   margin-bottom: 2rem;
   margin-top: 1rem;
+  padding-top: 2rem;
 }
 
 p, p a, li, p strong, p span, li strong, th, td {
@@ -158,6 +162,7 @@ p, p a, li, p strong, p span, li strong, th, td {
 
 p {
   margin-bottom: 2rem;
+  padding-top: 2rem;
 }
 
 /* S breakpoint */
