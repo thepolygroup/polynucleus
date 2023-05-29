@@ -35,11 +35,18 @@ img {
   padding: auto 15px;
 }
 
-.container-1080 {
+.container-1080, .container-600 {
   width: calc(100% - 30px);
-  max-width: 1080px;
   margin: 0 auto;
   padding: 0 15px;
+}
+
+.container-1080 {
+  max-width: 1080px;
+}
+
+.container-600 {
+  max-width: 600px;
 }
 
 hr {
