@@ -35,7 +35,7 @@ img {
   padding: auto 15px;
 }
 
-.container-1080, .container-600, .container-500, .container-400, .container-300, .container-250, .container-200 {
+.container-1080, .container-600, .container-500, .container-400, .container-350, .container-300, .container-250, .container-200 {
   width: calc(100% - 30px);
   margin: 0 auto;
   padding: 0 15px;
@@ -55,6 +55,10 @@ img {
 
 .container-400 {
   max-width: 400px;
+}
+
+.container-350 {
+  max-width: 350px;
 }
 
 .container-300 {
