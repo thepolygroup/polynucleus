@@ -35,7 +35,7 @@ img {
   padding: auto 15px;
 }
 
-.container-1080, .container-600, .container-500, .container-400, .container-350, .container-300, .container-250, .container-200 {
+.container-1080, .container-900, .container-800, .container-750, .container-700, .container-600, .container-500, .container-400, .container-350, .container-300, .container-250, .container-200 {
   width: calc(100% - 30px);
   margin: 0 auto;
   padding: 0 15px;
@@ -43,6 +43,22 @@ img {
 
 .container-1080 {
   max-width: 1080px;
+}
+
+.container-900 {
+  max-width: 900px;
+}
+
+.container-800 {
+  max-width: 800px;
+}
+
+.container-750 {
+  max-width: 750px;
+}
+
+.container-700 {
+  max-width: 700px;
 }
 
 .container-600 {
